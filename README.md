@@ -66,19 +66,6 @@ Text Generation
 
 ---
 
-## Project Structure
-
-```
-slm-from-scratch-tinystories/
-
-│── TinyStories_SLM_Training.ipynb
-│── README.md
-│── requirements.txt
-│── images/
-│── checkpoints/
-```
-
----
 
 ## Learning Objectives
 
