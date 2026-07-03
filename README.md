@@ -1,4 +1,4 @@
-# 🧠 Small Language Model (SLM) from Scratch using TinyStories
+# Small Language Model (SLM) from Scratch using TinyStories
 
 ## Overview
 
@@ -120,31 +120,6 @@ These challenges reflect common issues encountered when training language models
 
 ---
 
-## How to Run
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/slm-from-scratch-tinystories.git
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the notebook
-
-Open:
-
-```
-TinyStories_SLM_Training.ipynb
-```
-
-in Google Colab or Jupyter Notebook and execute the cells sequentially.
-
----
 
 ## Key Takeaways
 
