@@ -146,5 +146,3 @@ Through this project, I developed a deeper understanding of:
 ## Author
 
 **Harnaaz**
-
-If you found this project helpful, feel free to ⭐ the repository.
